@@ -1,0 +1,14 @@
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\bin\Debug\net8.0\Choregraphie.exe
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\bin\Debug\net8.0\Choregraphie.deps.json
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\bin\Debug\net8.0\Choregraphie.runtimeconfig.json
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\bin\Debug\net8.0\Choregraphie.dll
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\bin\Debug\net8.0\Choregraphie.pdb
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.AssemblyInfoInputs.cache
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.AssemblyInfo.cs
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.csproj.CoreCompileInputs.cache
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.dll
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\refint\Choregraphie.dll
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.pdb
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\Choregraphie.genruntimeconfig.cache
+C:\Users\Siwar\formation\QuetesC#\Choregraphie\Choregraphie\obj\Debug\net8.0\ref\Choregraphie.dll
